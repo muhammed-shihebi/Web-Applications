@@ -5,4 +5,4 @@
 
 <h2>Screenshots</h2>
 
-<img src="screenshot/Capture1.PNG">
+<img src="screenshots/Capture1.PNG">
