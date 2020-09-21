@@ -7,4 +7,4 @@ http://localhost:3000/house <br> </p>
 
 <h2>Screenshots</h2>
 
-<img src="screenshot/TodoList.PNG">
+<img src="screenshots/TodoList.PNG">
