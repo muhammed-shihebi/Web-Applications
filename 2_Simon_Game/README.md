@@ -5,4 +5,4 @@
 <h2>Screenshots</h2>
 
 
-<img src="screenshot/Simon_game.PNG">
+<img src="screenshots/Simon_game.PNG">
