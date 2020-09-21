@@ -7,8 +7,8 @@
 
 <h2>Screenshots</h2>
 
-<img src="screenshot/Authentication1.PNG">
-<img src="screenshot/Authentication2.PNG">
-<img src="screenshot/Authentication3.PNG">
-<img src="screenshot/Authentication4.PNG">
-<img src="screenshot/Authentication5.PNG">
+<img src="screenshots/Authentication1.PNG">
+<img src="screenshots/Authentication2.PNG">
+<img src="screenshots/Authentication3.PNG">
+<img src="screenshots/Authentication4.PNG">
+<img src="screenshots/Authentication5.PNG">
